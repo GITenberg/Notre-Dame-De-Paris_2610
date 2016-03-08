@@ -1,0 +1,42 @@
+_repo: Notre-Dame-De-Paris_2610
+alternative_title: The Hunchback of Notre Dame
+contributor:
+  translator:
+    agent_name: Hapgood, Isabel Florence
+    birthdate: 1850
+    deathdate: 1928
+    gutenberg_agent_id: '33608'
+    url: http://www.gutenberg.org/2009/agents/33608
+    wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+creator:
+  author:
+    agent_name: Hugo, Victor
+    alias: Hugo, Victor Marie, comte
+    birthdate: 1802
+    deathdate: 1885
+    gutenberg_agent_id: '85'
+    url: http://www.gutenberg.org/2009/agents/85
+    wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+gutenberg_bookshelf:
+- Banned Books from Anne Haight's list
+- Movie Books
+- Harvard Classics
+gutenberg_issued: '2001-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2610'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh: Notre-Dame de Paris (Cathedral) -- Fiction'
+- '!lcc: PQ'
+- '!lcsh: Historical fiction'
+- '!lcsh: France -- History -- Louis XI, 1461-1483 -- Fiction'
+- '!lcsh: Paris (France) -- History -- To 1515 -- Fiction'
+- '!lcsh: Clergy -- Fiction'
+- '!lcsh: People with disabilities -- Fiction'
+- '!lcsh: Romances'
+title: Notre-Dame De Paris
+url: http://www.gutenberg.org/ebooks/2610
