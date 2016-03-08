@@ -27,9 +27,9 @@ script:
 - zip -rX book.epub mimetype
 - zip -rX book.epub OEBPS/ META-INF/
 - if test -d "OEBPS/images/"; then zip -rX book.epub OEBPS/images/ ;fi
-- mv book.epub {{epub_title}}.epub
-- ebook-convert {{epub_title}}.epub {{epub_title}}.mobi
-- xvfb-run ebook-convert {{epub_title}}.epub {{epub_title}}.pdf
+- mv book.epub Notre-Dame-De-Paris.epub
+- ebook-convert Notre-Dame-De-Paris.epub Notre-Dame-De-Paris.mobi
+- xvfb-run ebook-convert Notre-Dame-De-Paris.epub Notre-Dame-De-Paris.pdf
 branches:
   only:
   - master
@@ -46,11 +46,11 @@ deploy:
   api_key:
     secure: {{encrypted_key}}
   file:
-    - {{epub_title}}.epub
-    - {{epub_title}}.mobi
-    - {{epub_title}}.pdf
+    - Notre-Dame-De-Paris.epub
+    - Notre-Dame-De-Paris.mobi
+    - Notre-Dame-De-Paris.pdf
   "on":
-    repo: GITenberg/{{repo_name}}
+    repo: GITenberg/Notre-Dame-De-Paris_2610
 addons:
   apt:
     packages:

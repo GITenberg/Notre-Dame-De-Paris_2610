@@ -1,4 +1,5 @@
 _repo: Notre-Dame-De-Paris_2610
+_version: 0.0.1
 alternative_title: The Hunchback of Notre Dame
 contributor:
   translator:
@@ -8,6 +9,12 @@ contributor:
     gutenberg_agent_id: '33608'
     url: http://www.gutenberg.org/2009/agents/33608
     wikipedia: http://en.wikipedia.org/wiki/Isabel_Florence_Hapgood
+covers:
+- attribution: Christopher Komuro, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
 creator:
   author:
     agent_name: Hugo, Victor
@@ -26,9 +33,10 @@ gutenberg_type: Text
 identifiers:
   gutenberg: '2610'
 language: en
-publisher: Project Gutenberg
-rights: Public domain in the USA.
-rights_url: http://creativecommons.org/about/pdm
+publication_date: 2015-08-01
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
 subjects:
 - '!lcsh: Notre-Dame de Paris (Cathedral) -- Fiction'
 - '!lcc: PQ'
@@ -38,5 +46,6 @@ subjects:
 - '!lcsh: Clergy -- Fiction'
 - '!lcsh: People with disabilities -- Fiction'
 - '!lcsh: Romances'
+- GITenberg
 title: Notre-Dame De Paris
 url: http://www.gutenberg.org/ebooks/2610
