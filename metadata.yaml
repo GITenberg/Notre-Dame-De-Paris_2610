@@ -1,5 +1,5 @@
 _repo: Notre-Dame-De-Paris_2610
-_version: 0.2.2
+_version: 0.2.3
 alternative_title: The Hunchback of Notre Dame
 contributor:
   translator:
@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '85'
     url: http://www.gutenberg.org/2009/agents/85
     wikipedia: http://en.wikipedia.org/wiki/Victor_Hugo
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2610#Notre-Dame-De-Paris
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Movie Books
