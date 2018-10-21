@@ -15,6 +15,7 @@ Translator: Isabel F. Hapgood
 
 Release Date: April, 2001  [Etext #2610]
 Posting Date: November 13, 2009
+Last Updated: July 13, 2016
 
 Language: English
 
@@ -52,7 +53,7 @@ A few years ago, while visiting or, rather, rummaging about Notre-Dame,
 the author of this book found, in an obscure nook of one of the towers,
 the following word, engraved by hand upon the wall:--
 
-       _ANArKH_.
+       _ANANKE_.
 
 
 These Greek capitals, black with age, and quite deeply graven in
@@ -4539,7 +4540,7 @@ the great toe of the foot is to measure the giant.
 
 Let us return to the façade of Notre-Dame, as it still appears to us,
 when we go piously to admire the grave and puissant cathedral, which
-inspires terror, so its chronicles assert: _quoe mole sua terrorem
+inspires terror, so its chronicles assert: _quæ mole sua terrorem
 incutit spectantibus_.
 
 Three important things are to-day lacking in that façade: in the first
@@ -4958,7 +4959,7 @@ there were some even better than the above, had been extorted from the
 kings by revolts and mutinies. It is the course of things from time
 immemorial; the king only lets go when the people tear away. There is an
 old charter which puts the matter naively: apropos of fidelity: _Civibus
-fidelitas in reges, quoe tamen aliquoties seditionibus interrypta, multa
+fidelitas in reges, quæ tamen aliquoties seditionibus interrypta, multa
 peperit privileyia_.
 
 In the fifteenth century, the Seine bathed five islands within the walls
@@ -6642,8 +6643,8 @@ reminding the bishop of the statute of the Black Book, dating from the
 vigil of Saint-Barthélemy, 1334, which interdicts access to the cloister
 to "any woman whatever, old or young, mistress or maid." Upon which the
 bishop had been constrained to recite to him the ordinance of Legate
-Odo, which excepts certain great dames, _aliquoe magnates mulieres,
-quoe sine scandalo vitari non possunt_. And again the archdeacon had
+Odo, which excepts certain great dames, _aliquæ magnates mulieres,
+quæ sine scandalo vitari non possunt_. And again the archdeacon had
 protested, objecting that the ordinance of the legate, which dated back
 to 1207, was anterior by a hundred and twenty-seven years to the Black
 Book, and consequently was abrogated in fact by it. And he had refused
@@ -7720,7 +7721,7 @@ and guard of the provostship of Paris. It was already nearly seventeen
 years since he had received from the king, on November 7, 1465, the
 comet year,* that fine charge of the provostship of Paris, which was
 reputed rather a seigneury than an office. _Dignitas_, says Joannes
-Loemnoeus, _quoe cum non exigua potestate politiam concernente, atque
+Loemnoeus, _quæ cum non exigua potestate politiam concernente, atque
 proerogativis multis et juribus conjuncta est_. A marvellous thing in
 '82 was a gentleman bearing the king's commission, and whose letters
 of institution ran back to the epoch of the marriage of the natural
@@ -9612,7 +9613,7 @@ TABLE OF CONTENTS.
 
 BOOK SEVENTH. I. The Danger of Confiding One's Secret to a Goat II. A
 Priest and a Philosopher are two Different Things III. The Bells IV.
-_ANArKH_ V. The Two Men Clothed in Black VI. The Effect which Seven
+_ANANKE_ V. The Two Men Clothed in Black VI. The Effect which Seven
 Oaths in the Open Air can Produce VII. The Mysterious Monk VIII. The
 Utility of Windows which Open on the River
 
@@ -10763,7 +10764,7 @@ a dog who has been offered a bone and given a stone.
 
 
 
-CHAPTER IV. _ANArKH_.
+CHAPTER IV. _ANANKE_.
 
 
 It chanced that upon a fine morning in this same month of March, I think
@@ -11036,7 +11037,7 @@ saw was his fist convulsively clenched on a book. Suddenly, Dom Claude
 sprang up, seized a compass and engraved in silence upon the wall in
 capital letters, this Greek word
 
-         _ANArKH_.
+         _ANANKE_.
 
 "My brother is mad," said Jehan to himself; "it would have been far more
 simple to write _Fatum_, every one is not obliged to know Greek."
@@ -11134,7 +11135,7 @@ is written yonder on the wall?"
 
 "What word?"
 
-"'_ANArKH_."
+"'_ANANKE_."
 
 A slight flush spread over the cheeks of the priest with their high
 bones, like the puff of smoke which announces on the outside the secret
@@ -13292,7 +13293,7 @@ breathless gestures of Master Charmolue,
 
 "_Ideo, domni, coram stryga demonstrata, crimine patente, intentione
 criminis existente, in nornine sanctoe ecclesioe Nostroe-Domince
-Parisiensis quoe est in saisina habendi omnimodam altam et bassam
+Parisiensis quæ est in saisina habendi omnimodam altam et bassam
 justitiam in illa hac intemerata Civitatis insula, tenore proesentium
 declaremus nos requirere, primo, aliquamdam pecuniariam indemnitatem;
 secundo, amendationem honorabilem ante portalium maximum
@@ -14567,7 +14568,7 @@ condemned girl, in gusts, fragments of melancholy psalms,--
 "_Non timebo millia populi circumdantis me: exsurge, Domine; salvum me
 fac, Deus_!"
 
-"_Salvum me fac, Deus, quoniam intraverunt aquoe usque ad animam meam_.
+"_Salvum me fac, Deus, quoniam intraverunt aquæ usque ad animam meam_.
 
 "_Infixus sum in limo profundi; et non est substantia_."
 
@@ -17099,8 +17100,8 @@ the tumult was increasing around him, the scholar cried,--.
 
 "Oh! what a fine noise! _Populi debacchantis populosa debacchatio_!"
 Then he began to sing, his eye swimming in ecstasy, in the tone of a
-canon intoning vespers, _Quoe cantica! quoe organa! quoe cantilenoe!
-quoe meloclioe hic sine fine decantantur! Sonant melliflua hymnorum
+canon intoning vespers, _quæ cantica! quæ organa! quæ cantilenoe!
+quæ meloclioe hic sine fine decantantur! Sonant melliflua hymnorum
 organa, suavissima angelorum melodia, cantica canticorum mira_! He broke
 off: "Tavern-keeper of the devil, give me some supper!"
 
